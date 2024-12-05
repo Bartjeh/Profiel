@@ -1,0 +1,173 @@
+html{
+    overflow-x: hidden;  
+    table-layout:fixed;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url(../fotos/3062683-poster-p-2-what-90s-anime-can-teach-architects.png);
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container h2 {
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 30px;
+    background-color: azure;
+}
+
+header {
+    background: black;
+    color: #fff;
+    padding:  35px;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+}
+
+header h2 {
+    text-align: center;
+    margin: 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0 0 0;
+}
+
+header nav ul li {
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+
+section {
+    padding: 2rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+section h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.grid {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.project {
+    padding: 1rem;
+    border-color: black;
+    border-radius: 30px;
+    background-color: azure;
+    width: 300px;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px
+}
+
+.project h3 {
+    margin-top: 0;
+}
+
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.headerfoto{
+    border-radius: 200px;
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin-left: 0px;
+    padding-right: 0px;
+    width: 200px;
+    transition: 1.5s;
+    transition-delay: 0.25s;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+.div1{
+    top: 15px;
+    left: 15px;
+    position: absolute;
+    z-index: 5;
+    display: inline-block;
+    text-align: center;
+    transition: 1.5s;
+    transition-delay: 0.25s;
+}
+
+.div1:hover .headerfoto{
+    transform: translate(10px, 30px);
+    width: 210px;
+}
+
+.div1:hover .titlediv{
+    transform: translate(30px, 0px);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.7);
+}
+
+.div1:hover .title{
+    transform: translate(10px, 0px);
+}
+
+.title{
+    width: 200px;
+    text-align: right;
+    padding-left: 50px;
+    padding-right: 25px;
+    transition: 1.5s;
+    transition-delay: 0.25s;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titlediv{
+    position: absolute; top:110px; left: 120px;
+    z-index: 1;
+    display: inline-block;
+    width: 270px;
+    height: 80px;
+    margin-left: 15px;
+    margin-right: 25px;
+    border-color: black;
+    border-radius: 30px;
+    background-color: azure;
+    transition: 1.5s;
+    transition-delay: 0.25s;
+
+}
