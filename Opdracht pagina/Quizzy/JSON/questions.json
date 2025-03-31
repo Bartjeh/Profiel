@@ -1,0 +1,96 @@
+[
+  {
+    "type": "multiple-choice",
+    "question": "Wat betekent de term neurodiversiteit?",
+    "answers": ["Een stoornis in de hersenen", "De natuurlijke variatie in hoe mensen denken en verwerken", "Een medische aandoening die behandeld moet worden", "Een type therapie voor mentale gezondheid"],
+    "correct": 1
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Welke van de volgende diagnoses vallen onder neurodiversiteit?",
+    "answers": ["ADHD, autisme en dyslexie", "Diabetes en hoge bloeddruk", "Allergieën en astma", "Griep en verkoudheid"],
+    "correct": 0
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Wat is een veelvoorkomende uitdaging voor neurodivergente mensen?",
+    "answers": ["Problemen met autorijden", "Moeilijkheden met sociale interacties of sensorische prikkels", "Geen emoties kunnen voelen", "Slechtere intelligentie"],
+    "correct": 1
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Wat is een voordeel van neurodiversiteit in de werkplek?",
+    "answers": ["Neurodivergente mensen werken altijd sneller", "Er is geen voordeel, alleen uitdagingen", "Het kan zorgen voor innovatieve en creatieve oplossingen", "Ze kunnen alleen goed werken in een stille omgeving"],
+    "correct": 2
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Welke term wordt vaak gebruikt om mensen aan te duiden die geen neurodivergente kenmerken hebben?",
+    "answers": ["Neurocentraal", "Neurotypisch", "Neuroflexibel", "Neurogevoelig"],
+    "correct": 1
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Wat betekent ‘executieve functies’ in relatie tot neurodiversiteit?",
+    "answers": ["De manier waarop iemand lichamelijke bewegingen coördineert", "De hersenfuncties die helpen bij plannen, organiseren en impulsbeheersing", "Een speciale behandeling voor neurodivergente mensen", "Een type werk dat neurodivergente mensen goed kunnen uitvoeren"],
+    "correct": 1
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Welke uitspraak over autisme is correct?",
+    "answers": ["Alle autistische mensen zijn introvert", "Autisme heeft één vaste vorm die bij iedereen hetzelfde is", "Autisme is een spectrum, wat betekent dat het voor iedereen anders kan zijn", "Autistische mensen kunnen geen empathie voelen"],
+    "correct": 2
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Waarom ervaren sommige neurodivergente mensen sensorische overprikkeling?",
+    "answers": ["Hun hersenen verwerken prikkels anders dan neurotypische mensen", "Ze hebben een probleem met hun oren en ogen", "Ze krijgen te weinig beweging", "Ze zijn altijd verlegen en angstig"],
+    "correct": 0
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Welke strategie kan helpen bij het ondersteunen van neurodivergente leerlingen in de klas?",
+    "answers": ["Strikte discipline zonder aanpassingen", "Het vermijden van contact met andere leerlingen", "Het geven van extra huiswerk om te oefenen", "Flexibele leeromgevingen en duidelijke structuren"],
+    "correct": 3
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Wat betekent ‘maskeren’ in de context van neurodiversiteit?",
+    "answers": ["Het dragen van een masker tegen prikkels", "Het gebruik van speciale therapieën om neurodiversiteit te verhelpen", "Een vorm van meditatie om tot rust te komen", "Het onderdrukken of verbergen van neurodivergent gedrag om te passen in een neurotypische omgeving"],
+    "correct": 3
+  },
+  {
+    "type": "open",
+    "question": "Wat betekent de term neurodiversiteit en waarom is het belangrijk?",
+    "correct": "natuurlijke variatie, hersenen, denken, uniek, acceptatie of inclusief",
+    "keywords": ["natuurlijke variatie", "hersenen", "denken", "uniek", "acceptatie", "inclusief"]
+  },
+  {
+    "type": "open",
+    "question": "Noem drie voordelen van neurodiversiteit op de werkvloer.",
+    "correct": "creativiteit, innovatie, probleemoplossend, andere perspectieven of sterke focus",
+    "keywords": ["creativiteit", "innovatie", "probleemoplossend", "andere perspectieven", "sterke focus"]
+  },
+  {
+    "type": "open",
+    "question": "Wat zijn enkele uitdagingen waar neurodivergente mensen tegenaan kunnen lopen in het dagelijks leven?",
+    "correct": "prikkelverwerking, communicatie, structuur, sociaal, aanpassingen of sensorische overprikkeling",
+    "keywords": ["prikkelverwerking", "communicatie", "structuur", "sociaal", "aanpassingen", "sensorische overprikkeling"]
+  },
+  {
+    "type": "open",
+    "question": "Hoe kan het onderwijs beter worden afgestemd op neurodivergente leerlingen?",
+    "correct": "flexibiliteit, individuele begeleiding, duidelijke structuur, visuele hulpmiddelen of rustmomenten",
+    "keywords": ["flexibiliteit", "individuele begeleiding", "duidelijke structuur", "visuele hulpmiddelen", "rustmomenten"]
+  },
+  {
+    "type": "open",
+    "question": "Waarom is het concept van een ‘neurodiversiteit-vriendelijke samenleving’ belangrijk?",
+    "correct": "inclusie, gelijkheid, toegankelijkheid, begrip, minder stigma of gelijke kansen",
+    "keywords": ["inclusie", "gelijkheid", "toegankelijkheid", "begrip", "minder stigma", "gelijke kansen"]
+  }
+]
+
+
+
+

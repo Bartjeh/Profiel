@@ -1,0 +1,109 @@
+html{
+    height: 1920px;
+    width: 1080px;
+}
+
+body{
+    height: 1920px;
+    width: 1080px;
+    background-image: linear-gradient(#000, #000, #EC3193);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#icon{
+    position: absolute;
+    transform: scale(90%);
+    top: 15px;
+    left: 50px;
+}
+
+
+
+#div1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 25%;
+}
+
+#button{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #57E7F0;
+    font-size: 200%;
+    font-weight: bolder;
+    font-family: monospace;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+#fotogroup1{
+    height: 250px;
+    width: 250px;
+    margin-left: 40px;
+    margin-right: 40px;
+    transform: scale(110%);
+    border-color: red;
+    border-style: solid;
+    border-width: 3px;
+}
+
+#innerdiv{
+    display: flex;
+    flex-direction: row;
+}
+
+#innertext{
+    margin-left: 8%;
+    margin-top: 50px;
+    font-family: monospace;
+    color: #57E7F0;
+    display: flex;
+    flex-direction: row;
+    font-size: 280%;
+}
+
+#Test{
+    display: flex;
+    flex-direction: column;
+}
+
+#div2{
+    margin-top: 5%;
+    margin-left: 21px;
+    margin-right: 21px;
+}
+
+#lorempje{
+    margin-left: 8%;
+    margin-top: 50px;
+    font-family: monospace;
+    color: #57E7F0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#foto2{
+    height: 500px;
+    width: 800px;
+    margin-right: 40px;
+    transform: scale(110%);
+    border-color: red;
+    border-style: solid;
+    border-width: 3px;
+    margin-left: 150px;
+}
+
+#innertext2{
+    font-size: 280%;
+    margin-top: 50px;
+    font-family: monospace;
+    color: #57E7F0;
+    text-align: center;
+}

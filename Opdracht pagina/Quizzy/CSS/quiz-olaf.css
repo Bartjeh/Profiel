@@ -1,0 +1,230 @@
+body {
+    background-color: #007AFF;
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#start-screen{
+    background-color: #FFD700;
+    width: 70%;
+    height: 100%;
+    display: inline-block;
+    border: solid 5px black;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+
+#username {
+    background-color: #00C2CB;
+    border: solid 3px black;
+    width: 25%;
+    height: 10vh;
+    text-align: center;
+    margin: 15px;
+}
+
+#start-quiz-button {
+    background-color: #9B5DE5;
+    border-radius: 25px;
+    border: solid 3px black;
+    display: inline-block;
+    width: 15%;
+    height: 7.5vh;
+    cursor: pointer;
+    font-size: large;
+}
+
+#start-quiz-button:hover {
+    background-color: #7f4ebc;
+    padding: 5px;
+    font-size: x-large;
+    font-weight: 700;
+    transform: scale(1.05);
+    box-shadow: 5px 5px black;
+    transition-duration: 100ms;
+}
+
+
+
+
+#quiz-container {
+    background-color: #FFD700;
+    width: 70%;
+    height: 100%;
+    border: solid 5px black;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+#question-box {
+    background-color: #00C2CB;
+    border: solid 5px black;
+    border-radius: 25px;
+    padding: 10px 25px;
+    margin-bottom: 25px;
+}
+
+
+/* gesloten vragen */
+#question {
+    background-color: #00C2CB;
+    border: solid 3px black;
+    padding: 10px;
+}
+
+#multiple-choice-container {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    justify-content: space-evenly;
+}
+
+#multiple-choice-container > button {
+    background-color: #00C2CB;
+    padding: 5px;
+    border: solid 3px black;
+    font-size: x-large;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+#multiple-choice-container > button:hover {
+    background-color: #008b92;
+    padding: 5px;
+    font-size: x-large;
+    font-weight: 700;
+    transform: scale(1.05);
+    box-shadow: 5px 5px black;
+}
+
+#multiple-choice-container > button:disabled {
+    cursor: not-allowed;
+}
+
+#next {
+    background-color: #9B5DE5;
+    padding: 5px;
+    border: solid 3px black;
+    font-size: x-large;
+    font-weight: 700;
+    cursor: pointer;
+    width: 15%;
+    border-radius: 25px;
+}
+
+#next:hover {
+    background-color: #7f4ebc;
+    padding: 5px;
+    transform: scale(1.05);
+    box-shadow: 5px 5px black;
+    transition-duration: 200ms;
+}
+
+
+/* open vragen */
+#answer-input {
+    display: inline-block;
+    background-color: #00C2CB;
+    width: 75%;
+    height: 25vh;
+    border: solid 3px black;
+    text-align: center;
+    margin: 15px;
+
+}
+
+#submit-answer {
+    background-color: #9B5DE5;
+    border-radius: 25px;
+    border: solid 3px black;
+    display: inline-block;
+    width: 15%;
+    height: 7.5vh;
+    color: black;
+    cursor: pointer;
+    font-size: large;
+}
+
+#submit-answer:hover {
+    background-color: #7f4ebc;
+    padding: 5px;
+    font-size: x-large;
+    font-weight: 700;
+    transform: scale(1.05);
+    box-shadow: 5px 5px black;
+    transition-duration: 200ms;
+}
+
+#answer-input:disabled {
+    cursor: not-allowed;
+}
+
+#submit-answer:disabled {
+    cursor: not-allowed;
+}
+
+
+#score-container > button {
+    background-color: #9B5DE5;
+    border-radius: 25px;
+    border: solid 3px black;
+    display: inline-block;
+    width: 15%;
+    height: 7.5vh;
+    cursor: pointer;
+    font-size: large;
+}
+
+#score-container > button:hover {
+    background-color: #7f4ebc;
+    padding: 5px;
+    font-size: x-large;
+    font-weight: 700;
+    width: 20%;
+    transform: scale(1.05);
+    box-shadow: 5px 5px black;
+    transition-duration: 200ms;
+}
+
+
+#score-container {
+    background-color: #FFD700;
+    width: 70%;
+    height: 100%;
+    border: solid 5px black;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+#score-container > img {
+    display: block;
+    margin: 10px auto;
+    width: 10%;    
+    height: 10%;
+}
+
+#leaderboard-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #00C2CB;
+    border: solid 5px black;
+    margin: 15px;
+}
+
+#leaderboard-container > img {
+    display: block;
+    margin: 0 auto;
+    width: 10%;    
+    height: 10%;
+}
+
+#leaderboard {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}

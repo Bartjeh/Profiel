@@ -1,0 +1,48 @@
+.midsection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.info_neuro{
+    display: flex;
+    background-color: rgb(227, 227, 227);
+    border: 1px solid black;
+    margin: 40px;
+    width: 1000px;
+    height: 900px;
+}
+
+.info_neuro img{
+    height: 65%;
+    float: right;
+    margin-left: 10px;
+}
+
+.info_maker{
+    display: flex;
+    background-color: rgb(227, 227, 227);
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: 40px;
+    width: 1000px;
+    height: 900px;
+}
+
+.info_maker img{
+    height: 100%;
+}
+
+.info_text{
+    padding-left: 10px;
+}
+
+.info_text h2{
+    font-size: 32px;
+    margin: 0;
+    margin-top: 15px;
+}
+
+.info_text p{
+    font-size: larger;
+}

@@ -1,0 +1,120 @@
+
+
+body{
+    min-height: 1920px;
+    min-width: 1080px;
+    background-image: linear-gradient(#000, #000, #EC3193);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#icon{
+    position: absolute;
+    transform: scale(90%);
+    top: 15px;
+    left: 50px;
+}
+
+#title{
+    margin-left: 8%;
+    margin-top: 100px;
+    color: #57E7F0;
+    font-size: 100px;
+}
+
+#div1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 25%;
+}
+
+#button{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #57E7F0;
+    font-size: 200%;
+    font-weight: bolder;
+    font-family: monospace;
+    text-decoration: none;
+    text-align: center;
+}
+
+#lorem{
+    color: #57E7F0;
+    font-size: 300%;
+    margin-left: 40px;
+    font-family: monospace;
+}
+
+#div2{
+    margin-left: 8%;
+    display: flex; 
+    flex-direction: row;
+    height: 500px;
+}
+
+#div3{
+    margin-left: 3%;
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+}
+#foto{
+    padding-right: 5px;
+    transform: scale(110%);
+}
+
+#fotos{
+    height: 250px;
+    width: 250px;
+    margin-left: 40px;
+    margin-right: 40px;
+    transform: scale(110%);
+    border-color: red;
+    border-style: solid;
+    border-width: 3px;
+}
+
+#characters{
+    margin-top: 40px;
+    color: #57E7F0;
+    display: flex;
+    flex-direction: row;
+}
+
+#character_names{
+    margin-left: 18%;
+    margin-top: 50px;
+    font-family: monospace;
+    margin-top: 45px;
+    color: #57E7F0;
+    display: flex;
+    flex-direction: row;
+}
+
+#text2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}
+
+#ipsum{
+    padding-right: 15px;
+    color: #57E7F0;
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace;
+}
+
+#characterbox{
+    margin-right: 20px;
+}

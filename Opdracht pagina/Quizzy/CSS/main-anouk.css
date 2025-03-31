@@ -1,0 +1,76 @@
+.nunito-title {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.nunito-text {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 110px;
+    background-color: #6437FF;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    font-size: xx-large;
+    color: white;
+}
+
+.logo{
+    padding-top: 10px;
+    height: 90px;
+}
+
+button {
+    background-color: #6437FF;
+    padding: 4px 20px;
+    margin: 10px;
+    color: white;
+    font-size: 22px;
+}
+
+.menu-container {
+    position: relative;
+    display: inline-block;
+}
+.menu-button {
+    cursor: pointer;
+    transform: rotate(90deg);
+    font-size: 40px;
+    color: white;
+    margin: 30px 20px;
+    user-select: none;
+}
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 80px;
+    right: 0;
+    background: rgb(227, 227, 227);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 150px;
+    padding: 10px 0;
+}
+.dropdown a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #6437FF;
+}
+.dropdown a:hover {
+    background: #6437FF;
+    color: white;
+}

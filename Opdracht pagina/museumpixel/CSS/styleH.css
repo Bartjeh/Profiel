@@ -1,0 +1,146 @@
+body{
+   
+
+    height: 1920px;
+    width: 1080px;
+    background: linear-gradient(to bottom,#000000,#000000,#EC3193)
+} 
+
+#main { 
+    
+    
+    color: #57E7F0;
+    margin-top: 200px;
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: monospace;
+   
+   
+}
+
+.game{
+    font-size: 30px;
+    margin-left: 43%;
+    color: #57E7F0;
+    font-family: monospace;
+    font-weight: bolder;
+    margin-top:60px;
+    position:absolute
+    
+
+    
+    
+    
+ 
+
+}
+.foto2 {
+    
+position: absolute;
+top: 10px;
+left: 1%;
+transform: scale(70%);
+}
+.vierkant{
+    background-color: #57E7F0;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    top: 50px;
+    left: 22%;
+    font-size: 200%;
+    font-weight: bolder;
+    font-family: monospace;
+    text-decoration: none;
+    text-align: center;
+}
+.vierkant1{
+    background-color: #57E7F0;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    top: 50px;
+    left: 49%;
+    font-size: 200%;
+    font-weight: bolder;
+    font-family: monospace;
+    text-decoration: none;
+    text-align: center;
+}
+.vierkant2{
+    background-color: #57E7F0;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    top: 50px;
+    left: 66%;
+    font-size: 200%;
+    font-weight: bolder;
+    font-family: monospace;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.foto1{
+    border: 3px solid red;
+    position: absolute;
+    left: 3%;
+    width: 400px;
+    height: 500px;
+}
+.main1{ color: #57E7F0;
+    position: absolute;
+    top: 900px;
+    left: 15%;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.controls{
+    color: #57E7F0;
+    position: absolute;
+    top: 900px;
+    left: 63%;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.giff{
+    border: 3px solid red;
+position: absolute;
+top: 1050px;
+left: 3%
+}
+
+.controlss{ 
+    border: 3px solid red;
+    position: absolute;
+top: 1050px;
+left: 53%
+}
+.rec{
+    width: 500px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: monospace;
+    color: #57E7F0;
+    position: absolute;
+    top: 1400px;
+    left: 3%
+    
+}
+.con{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: monospace;
+    color: #57E7F0;
+    position: absolute;
+    top: 1200px;
+    left: 55%
+}

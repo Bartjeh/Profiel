@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="CSS/main-anouk.css">
+    <link rel="stylesheet" href="CSS/quiz-anouk.css">
+    <script src="JS/main-anouk.js"></script>
+    <script src="JS/quiz-anouk.js"></script>
+</head>
+<body>
+    <header>
+        <img class="logo" src="media/images/logo_leeftijdinput2.png">
+
+        <div class="menu-container">
+            <p class="menu-button nunito-title" onclick="toggleDropdown()">|||</p>
+            <div class="dropdown" id="dropdownMenu">
+                <a class="nunito-text" href="homepage/homepage.html">Home</a>
+                <a class="nunito-text" href="info-anouk.html">Info</a>
+            </div>
+        </div>
+        
+    </header>
+    <section class="midsection">
+        <img class="plaatje" id="plaatje">
+        <div class="vraag"><p class="nunito-title" id="vraag"></p></div>
+        <div class="antwoordknoppen">
+            <button id="button1" onclick="checkAntwoord('a')"><p class="nunito-text" id="antwoord1"></p></button>
+            <button id="button2" onclick="checkAntwoord('b')"><p class="nunito-text" id="antwoord2"></p></button>
+            <button id="button3" onclick="checkAntwoord('c')"><p class="nunito-text" id="antwoord3"></p></button>
+        </div>
+        <p id="controle" class="nunito-text"></p>
+        <button class="verder" id="verder" onclick="volgendeVraag()"><p class="nunito-text">verder</p></button>
+        <a href="info-anouk.html"><button id="naar_info" class="naar_info"><p class="nunito-text">Naar de informatie pagina</p></button></a>
+    </section>
+</body>
+</html>

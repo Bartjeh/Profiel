@@ -1,0 +1,92 @@
+vraag 1:
+Wat is de definitie van neurodiversiteit?
+antwoorden:
+A. Dat zijn mensen met ADHD en Autisme
+B. Alle manieren waarop een brein anders kan zijn dan gemiddeld
+C. Het betekend gewoon dat je een dom kindje bent
+correct antwoord:
+B
+
+vraag 2:
+Welke van de volgende is een positieve uitkomst van neurodiversiteit?
+antwoorden:
+A. Je bent je sterk bewust van alles wat er om je heen gebeurd
+B. Je hebt moeite met sociale contacten opbouwen
+C. Je kunt op een unieke manier oplossingen bedenken
+correct antwoord:
+C
+
+vraag 3:
+Welke van de volgende is NIET een neurodiversiteit?
+antwoorden:
+A. Dementie
+B. Depressie
+C. Dyslexie
+correct antwoord:
+A
+
+vraag 4:
+Hoe kun je autisme herkennen?
+antwoorden:
+A. Hij/zij is heel erg goed in wiskunde
+B. Hij/zij is verstorend in de les
+C. Hij/zij is terughoudend in sociale interacties
+correct antwoord:
+C
+
+vraag 5:
+Welke van de volgende is NIET een neurodiversiteit?
+antwoorden:
+A. Hoog IQ
+B. Tourettes
+C. Syndroom van Down
+correct antwoord:
+A
+
+vraag 6:
+Wat is een simpele manier om mensen met een neurodiversiteit te ondersteunen?
+antwoorden:
+A. Samen een planning maken
+B. Een rustige werkomgeving bieden
+C. Straffen als ze hun werk niet op tijd af hebben
+correct antwoord:
+B
+
+vraag 7:
+Welke van de volgende is een overlappend symptoom van ADHD en Autisme?
+antwoorden:
+A. Aandachtsproblemen
+B. Sterk gevoel van rechtvaardigheid
+C. Behoefte aan voorspelbaarheid
+correct antwoord:
+B
+
+vraag 8:
+Is neurodiversiteit erfelijk?
+antwoorden:
+A. Ja
+B. Niet allemaal
+C. Nee
+correct antwoord:
+B
+
+vraag 9:
+Wat is dyspraxie?
+antwoorden:
+A. Een stoornis die lichamelijke motoriek moeilijker maakt
+B. Een stoornis die het moeilijk maakt om naar de praxis te gaan
+C. Een stoornis die het begrijpen van taal moeilijker maakt
+correct antwoord:
+A
+
+vraag 10:
+Welke van de volgende wordt gekarakteriseerd door obsessief, repetitief gedrag?
+antwoorden:
+A. Depressie
+B. Schizofrenie
+C. OCD
+correct antwoord:
+C
+
+image urls:
+["vraag1_neurodiversiteit.jpg", "vraag2_positivo.jpg", "vraag3_nietneuro.jpeg", "vraag4_acoustic.jpg", "vraag5_handjes.jpg", "vraag6_ondersteuning.jpg", "vraag7_audhd.png", "vraag8_generaties.jpg", "vraag9_praxisjpg", "vraag10_para.jpg"]
